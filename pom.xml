@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>in.javahome</groupId>
     <artifactId>gitprac</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <version>0.7.0</version>
     <name>gitprac Maven Webapp</name>
     <url>http://maven.apache.org</url>
