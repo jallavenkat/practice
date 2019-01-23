@@ -14,7 +14,8 @@ public class HelloWorld {
 
         // println() prints the following line to the output screen
 
-        System.out.println("You entered the number is :" + number);
+        System.out.println("Please enter the number :" + number);
+        System.out.println("You enter :" + number);
 
     }
 }
