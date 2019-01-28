@@ -23,7 +23,7 @@ public class HelloWorld {
 	public void getSquare(int x)
 	{
 		float sqr=x*x;
-		System.out.println("Square of the "+x+" is :" + sqr);
+		System.out.println("Square of the "+x+" :" + sqr);
 	}
 
 }
