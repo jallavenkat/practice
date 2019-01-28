@@ -18,17 +18,12 @@ public class HelloWorld {
         System.out.println("You enter :" + number);
 
     }
-
 	
 	public void getSquare(int x)
 	{
 		float sqr=x*x;
 		System.out.println("Square of the "+x+" :" + sqr);
 	}
-
-	
-
-
 	public void getAdd(int x,int y)
 	{
 		int sqr=x+y;
