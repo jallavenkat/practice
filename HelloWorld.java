@@ -26,4 +26,10 @@ public class HelloWorld {
 		System.out.println("Square of the "+x+" :" + sqr);
 	}
 
+	public void getAdd(int x,int y)
+	{
+		int sqr=x+y;
+		System.out.println("Addition of "+x+" and "+y+" is " + sqr);
+	}
+
 }
