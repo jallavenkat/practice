@@ -25,7 +25,10 @@ public class HelloWorld {
 		float sqr=x*x;
 		System.out.println("Square of the "+x+" :" + sqr);
 	}
+
 	
+
+
 	public void getAdd(int x,int y)
 	{
 		int sqr=x+y;
